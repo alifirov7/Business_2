@@ -14,17 +14,17 @@
     "dependencies": [
       {
         "id": "c2e19967-6920-413c-9560-8a327ca984d5",
-        "name": "Highway Helper ToolKit",
+        "name": "Highway ToolKit",
         "publisher": "Highway Mobile LLC",
-        "version": "1.0.0.0"
+        "version": "1.0.5.0"
       }
     ],
     "screenshots": [],
-    "platform": "1.0.1.0",
+    "platform": "1.0.0.0",
     "application": "22.0.0.0",
     "idRanges": [
       {
-        "from": 50111,
+        "from": 50112,
         "to": 50999
       }
     ],

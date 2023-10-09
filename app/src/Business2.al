@@ -1,7 +1,7 @@
 /// <summary>
-/// Table MyTable (ID 50111).
+/// Table MyTable (ID 50000).
 /// </summary>
-table 50111 MyTabl
+table 50112 MyTabl
 {
     Caption = 'Employe table';
     DataClassification = ToBeClassified;

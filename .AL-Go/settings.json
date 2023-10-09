@@ -1,7 +1,7 @@
 {
-  "country": "us",
+  "country": "ru",
   "appSourceCopMandatoryAffixes": [
-    "HWM"
+    "HWM" 
   ],
   "appFolders": ["app"],
   "testFolders": ["app.test"],
